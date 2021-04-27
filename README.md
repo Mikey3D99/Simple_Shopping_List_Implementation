@@ -2,6 +2,8 @@
 
 This is a simple object-oriented java shopping list programme.
 
+![alt text](https://prnt.sc/125c2vo)
+
 Goals for this project:
 
 USER:
